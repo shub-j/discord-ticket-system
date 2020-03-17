@@ -402,4 +402,4 @@ async def deladminrole(ctx, role_id=None):
         em = discord.Embed(title="Auroris Tickets", description="That isn't a valid role ID. Please try again with a valid role ID.")
         await ctx.send(embed=em)
 
-bot.run("TOKEN")
+bot.run(Njg5NTQ4MzQxODUxNDU1NTM1.XnEyUw.ZkQC9yZEtiX-Q_6k3om_KsGIHhM)
